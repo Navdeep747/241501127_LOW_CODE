@@ -1,0 +1,38 @@
+Problem Statement: Employee Leave Management System
+- Develop an Employee Leave Management System using Zoho Creator to automate employee leave applications, approvals, and tracking.
+-
+- Forms:
+-
+-     Create two forms to collect employee details and leave requests.
+-
+- Basic Fields:
+-
+-   Use single-line, email, phone, date, and dropdown fields to store employee and leave information.
+-
+- Advanced Fields:
+-
+-     Use lookup, formula, subform, and other suitable advanced fields to manage related records and calculate leave duration.
+-
+- Deluge Scripting:
+-
+-     Implement 2–3 Deluge scripts to validate leave dates, calculate leave days, and update leave statuses.
+-
+- Workflow Automation:
+-
+-     Configure a workflow to trigger notifications or actions when a leave request is submitted or its status changes.
+-
+- Dataset Import:
+-
+-     Import employee and leave records from a CSV or Excel dataset.
+-
+- AI Features:
+-
+-     Incorporate suitable AI-powered fields or features available in Zoho Creator to assist with leave-related data processing.
+-
+- Reports and Dashboards:
+-
+-     Display employee details, pending requests, approved leaves, and leave summaries.
+-
+- Expected Outcome:
+-
+-     Reduce manual work, improve data accuracy, and simplify employee leave management through automation.
